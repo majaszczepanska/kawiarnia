@@ -10,6 +10,7 @@ header {
 	width: 100%;
 	height: 20vh;
 	text-transform: uppercase;
+	font-size: 35px;
 	background-color: #d8b37c;
 	color: rgb(109, 55, 123);
 }
